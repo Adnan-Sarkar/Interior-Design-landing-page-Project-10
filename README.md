@@ -11,9 +11,9 @@ I'm `Adnan Sarkar`. This is the 10th assignment in my [Full Stack Javascript](ht
 ## 🖥 Preview
 `note:` please make sure the preview screen is `1920 x 1080`
 
-[Live Preview]()
+[Live Preview](https://interior-design-landingpage-project-10.netlify.app/)
 
-![]()
+![](Interior%20Design%20landing%20page.png)
 
 ##  What I have learned in this project?
 - Flex-box for elements alignment.
