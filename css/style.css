@@ -84,6 +84,15 @@ nav {
     color: #fff;
 }
 
+#nav-responsive-click {
+    display: none;
+}
+
+.nav-responsive-btn {
+    display: none;
+}
+
+
 /* =============== banner =============== */
 .banner {
     padding: 0 50px;
@@ -99,7 +108,11 @@ nav {
     margin-bottom: 50px;
 }
 
-.banner a {
+.banner h1 span {
+    display: block;
+}
+
+.banner-btn a {
     font-family: "Lato", sans-serif;
     font-size: 25px;
     font-weight: 900;
@@ -139,6 +152,14 @@ nav {
     margin-top: 20px;
     font-weight: 900;
     line-height: 1.5;
+}
+
+.feature1 p span {
+    display: block;
+}
+
+.feature1 p span span {
+    display: block;
 }
 
 .feature1::after {
@@ -200,4 +221,8 @@ nav {
     margin-top: 20px;
     font-weight: 900;
     line-height: 1.5;
+}
+
+.feature2 p span {
+    display: block;
 }
